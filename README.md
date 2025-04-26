@@ -45,7 +45,7 @@ In today's fast-paced recruitment environment, finding the right candidate quick
 
 ## Architecture
 
-![Architecture Diagram](https://chat.openai.com/mnt/data/A_diagram_titled_"HIRE_FIT_Architecture"_at_the_to.png)
+![Hire Fit Architecture Image](https://github.com/user-attachments/assets/aaaaaa17-55e5-4354-beb1-8557e6879a34)
 
 **(Diagram Flow)**:
 - Data Ingestion → Hadoop (Cleaning) → Hive (Structuring) → Amazon S3 (Storage) → AWS SageMaker (Feature Engineering + Model Training) → Predictions
@@ -195,5 +195,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 > **Thank you for exploring our project! Feel free to star ⭐ the repository if you find it useful!**
 
-![Thank You](https://img.freepik.com/free-vector/thank-you-concept-illustration_114360-7902.jpg)
+![Thank You]
+
+
 
